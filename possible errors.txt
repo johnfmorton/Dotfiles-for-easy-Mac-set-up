@@ -1,0 +1,11 @@
+Error message when using .osx file:
+
+
+Warning: Idle sleep timings for "AC Power" may not behave as expected.
+- Display sleep should have a lower timeout than system sleep.
+Set: Entry, ":FK_StandardViewSettings:IconViewSettings:showItemInfo", Does Not Exist
+Set: Entry, ":FK_StandardViewSettings:IconViewSettings:arrangeBy", Does Not Exist
+Set: Entry, ":FK_StandardViewSettings:IconViewSettings:gridSpacing", Does Not Exist
+Set: Entry, ":FK_StandardViewSettings:IconViewSettings:iconSize", Does Not Exist
+No application knows how to open /Users/john/init/Mathias.itermcolors.
+Done. Note that some of these changes require a logout/restart to take effect.
